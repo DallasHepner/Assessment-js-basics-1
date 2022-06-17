@@ -52,7 +52,8 @@ let gitStatusDefinition = `The git status command displays the state of the curr
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+let gitAddDefinition = `The git add command adds the files to be tracked by git. This must always be done in order to commit and push the code.`
+let gitAddCode = `git add -A`
 
 //////////////////PROBLEM 7////////////////////
 /*
