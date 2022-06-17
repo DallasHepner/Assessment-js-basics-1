@@ -25,7 +25,7 @@ let gitHubDefinition = 'Github is an internet provider for software development 
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+let gitInitDefinition = 'Git init is the first step in setting up a local repository. This command, when executed, initializes a local repository inside of the folder you are in.z'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@ let gitHubDefinition = 'Github is an internet provider for software development 
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+let gitCloneDefinition = 'The git clone command creates a copie of an exisiting repository to be used at another file location.'
 
 //////////////////PROBLEM 5////////////////////
 /*
