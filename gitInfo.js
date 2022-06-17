@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = 'Git is a version control system that allows individuals and teams to send snapshots of their code to a online folder that tracks the changes between the snapshots, allows the individual or team to backtrack if necessary. These snapshots are put into a repository.'
 
 //////////////////PROBLEM 2////////////////////
 /*
