@@ -25,7 +25,7 @@ let gitHubDefinition = 'Github is an internet provider for software development 
     It should be a string containing your best definition of what 'git init' does.
 */
 
-let gitInitDefinition = 'Git init is the first step in setting up a local repository. This command, when executed, initializes a local repository inside of the folder you are in.z'
+let gitInitDefinition = 'Git init is the first step in setting up a local repository. This command, when executed, initializes a local repository inside of the folder you are in.'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +41,7 @@ let gitCloneDefinition = 'The git clone command creates a copie of an exisiting 
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+let gitStatusDefinition = `The git status command displays the state of the current working directory. It lets you see which changes have been staged, which haven't and which files aren't being tracked by git.`
 
 //////////////////PROBLEM 6////////////////////
 /*
