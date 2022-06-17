@@ -74,4 +74,4 @@ let gitCommitCode = `git commit -m "initial commit"`
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = `The git push command is used to send a local repository, made by 'git init', to a remote repository, like one made on GitHub.`
