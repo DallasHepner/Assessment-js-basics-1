@@ -64,7 +64,8 @@ let gitAddCode = `git add -A`
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = `The git commit command creates a snapshot of the files that are currently being tracked. Adding the -m allows you to add a message to be sent with the files in a "message" format.`
+let gitCommitCode = `git commit -m "initial commit"`
 
 
 //////////////////PROBLEM 8////////////////////
