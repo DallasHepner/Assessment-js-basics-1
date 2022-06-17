@@ -17,7 +17,7 @@ let gitDefinition = 'Git is a version control system that allows individuals and
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = 'Github is an internet provider for software development and version control using git. Github is where the repository is located that git sends snapshots of the code you add.'
 
 //////////////////PROBLEM 3////////////////////
 /*
